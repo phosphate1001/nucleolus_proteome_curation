@@ -1,0 +1,508 @@
+uniprot_id	gene_name	protein_name	curated_location	shan_location	shan	hpa_enhanced	hpa_supported	humancellmap	cdcode_nucleolus_(conf)	new_confidence_score
+Q9NY61	AATF	Protein AATF	GC		False	False	True	True	True (2)	3
+Q96IU4	ABHD14B	Putative protein-lysine deacylase ABHD14B	GC	GC	True	False	True	False	False	2
+P61160	ACTR2	Actin-related protein 2	GC		False	False	True	False	True (1)	2
+P55265	ADAR	Double-stranded RNA-specific adenosine deaminase	GC		False	True	False	True	True (2)	3
+Q9NS39	ADARB2	Inactive double-stranded RNA-specific editase B2	GC	GC	True	False	False	False	True (2)	2
+Q8WTP8	AEN	Apoptosis-enhancing nuclease	GC		False	False	True	False	True (1)	2
+Q9UHB7	AFF4	AF4/FMR2 family member 4	FC/DFC		False	False	True	False	False	1
+Q7Z591	AKNA	Microtubule organization protein AKNA	FC/DFC		False	False	True	False	False	1
+P52895	AKR1C2	Aldo-keto reductase family 1 member C2	FC/DFC		False	False	False	False	True (1)	1
+P42330	AKR1C3	Aldo-keto reductase family 1 member C3	FC/DFC		False	False	False	False	True (1)	1
+P09972	ALDOC	Fructose-bisphosphate aldolase C	FC/DFC		False	False	False	False	True (1)	1
+Q9NYG5	ANAPC11	Anaphase-promoting complex subunit 11	GC		False	True	False	False	False	1
+Q15327	ANKRD1	Ankyrin repeat domain-containing protein 1	GC	GC	True	False	False	False	False	1
+Q9BXX2	ANKRD30B	Ankyrin repeat domain-containing protein 30B	GC		False	False	False	False	True (1)	1
+Q9UBZ4	APEX2	DNA-(apurinic or apyrimidinic site) endonuclease 2	GC	GC	True	False	True	False	False	2
+Q7Z2E3	APTX	Aprataxin	GC		False	False	True	False	True (1)	2
+Q03989	ARID5A	AT-rich interactive domain-containing protein 5A	GC		False	False	True	False	False	1
+P36404	ARL2	ADP-ribosylation factor-like protein 2	GC		False	False	True	False	False	1
+P18847	ATF3	Cyclic AMP-dependent transcription factor ATF-3	GC		False	False	True	False	False	1
+Q99941	ATF6B	Cyclic AMP-dependent transcription factor ATF-6 beta	GC		False	False	True	False	False	1
+O75348	ATP6V1G1	V-type proton ATPase subunit G 1	GC		False	False	False	False	True (1)	1
+P54253	ATXN1	Ataxin-1	GC		False	False	True	False	False	1
+P0C7T5	ATXN1L	Ataxin-1-like	GC		False	False	True	False	False	1
+O15169	AXIN1	Axin-1	GC		False	False	True	False	False	1
+Q9NR55	BATF3	Basic leucine zipper transcriptional factor ATF-like 3	GC		False	False	True	False	False	1
+Q86UU0	BCL9L	B-cell CLL/lymphoma 9-like protein	FC/DFC		False	False	True	False	False	1
+Q8WYA1	BMAL2	Basic helix-loop-helix ARNT-like protein 2	GC		False	False	True	False	False	1
+Q14692	BMS1	Ribosome biogenesis protein BMS1 homolog	GC		False	True	False	True	True (2)	3
+Q6ZN30	BNC2	Zinc finger protein basonuclin-2	FC/DFC		False	False	True	False	False	1
+Q14137	BOP1	Ribosome biogenesis protein BOP1	GC	GC	True	True	False	True	True (2)	4
+Q9HAW0	BRF2	Transcription factor IIIB 50 kDa subunit	GC		False	False	True	False	False	1
+Q8TDN6	BRIX1	Ribosome biogenesis protein BRX1 homolog	GC	GC	True	True	False	False	True (2)	3
+Q9NSI6	BRWD1	Bromodomain and WD repeat-containing protein 1	GC		False	False	True	False	False	1
+Q9BSF8	BTBD10	BTB/POZ domain-containing protein 10	FC/DFC		False	False	True	False	False	1
+O43709	BUD23	18S rRNA (guanine-N(7))-methyltransferase	GC		False	False	True	False	True (2)	2
+Q13895	BYSL	Bystin	GC	GC	True	True	False	False	True (2)	3
+Q96C57	C12ORF43 (CUSTOS)	Protein CUSTOS	GC	GC	True	True	False	True	True (2)	4
+Q32NC0	C18ORF21 (RMP24)	Ribonuclease MRP protein subunit p24	GC		False	False	False	False	True (1)	1
+Q9UNZ5	C19ORF53	Leydig cell tumor 10 kDa protein homolog	GC	GC	True	False	False	False	True (2)	2
+Q13901	C1D	Nuclear nucleic acid-binding protein C1D	GC		False	False	True	False	True (1)	2
+Q9NX04	C1ORF109 (AIRIM)	AFG2-interacting ribosome maturation factor	GC		False	False	True	False	False	1
+Q9NSG2	C1ORF112 (FIRRM)	FIGNL1-interacting regulator of recombination and mitosis	GC		False	False	True	False	False	1
+Q8NCU7	C2CD4A	C2 calcium-dependent domain-containing protein 4A	GC		False	False	True	False	False	1
+Q9BRJ6	C7ORF50 (CHLSN)	Protein cholesin	GC		False	False	False	False	True (2)	1
+Q16566	CAMK4	Calcium/calmodulin-dependent protein kinase type IV	FC/DFC		False	False	True	False	False	1
+Q7Z624	CAMKMT	Calmodulin-lysine N-methyltransferase	GC		False	False	True	False	False	1
+P55212	CASP6	Caspase-6	FC/DFC		False	False	True	False	False	1
+Q6PK04	CCDC137	Coiled-coil domain-containing protein 137	GC		False	False	True	True	True (1)	3
+P22674	CCNO	Cyclin-O	GC		False	False	True	False	False	1
+Q8ND76	CCNY	Cyclin-Y	GC		False	False	True	False	False	1
+Q53HL2	CDCA8	Borealin	GC	GC	True	False	True	False	True (1)	3
+P11802	CDK4	Cyclin-dependent kinase 4	GC		False	False	True	False	False	1
+P50613	CDK7	Cyclin-dependent kinase 7	FC/DFC		False	False	True	False	True (2)	2
+P42771	CDKN2A	Cyclin-dependent kinase inhibitor 2A	GC	GC	True	False	False	False	True (1)	2
+Q03701	CEBPZ	CCAAT/enhancer-binding protein zeta	FC/DFC		False	False	False	True	True (2)	2
+Q8WUJ3	CEMIP	Cell migration-inducing and hyaluronan-binding protein	FC/DFC		False	False	True	False	False	1
+Q7Z7K6	CENPV	Centromere protein V	GC		False	False	True	False	False	1
+Q6P2H3	CEP85	Centrosomal protein of 85 kDa	GC		False	False	True	False	False	1
+Q9P2B7	CFAP97	Cilia- and flagella-associated protein 97	GC	GC	True	False	False	False	False	1
+Q12873	CHD3	ATP-dependent chromatin remodeler CHD3	GC		False	False	True	False	True (2)	2
+Q9P2D1	CHD7	ATP-dependent chromatin remodeler CHD7	GC		False	False	True	False	True (1)	2
+O43745	CHP2	Calcineurin B homologous protein 2	GC		False	False	True	False	False	1
+Q8NFW8	CMAS	N-acylneuraminate cytidylyltransferase	GC		False	False	True	False	False	1
+Q9BQ75	CMSS1	Protein CMSS1	GC	GC	True	False	False	True	True (2)	3
+Q8WYK1	CNTNAP5	Contactin-associated protein-like 5	FC/DFC		False	False	True	False	False	1
+P38432	COIL	Coilin	FC/DFC		False	False	True	True	True (2)	3
+Q9P021	CRIPT	Cysteine-rich PDZ-binding protein	GC	GC	True	False	False	False	False	1
+P67870	CSNK2B	Casein kinase II subunit beta	FC/DFC		False	False	True	False	True (1)	2
+P04080	CSTB	Cystatin-B	GC		False	False	True	False	False	1
+Q9NTM9	CUTC	Copper homeostasis protein cutC homolog	GC		False	True	False	False	True (1)	2
+Q9Y4B6	DCAF1	DDB1- and CUL4-associated factor 1	FC/DFC		False	False	True	False	False	1
+Q9NV06	DCAF13	DDB1- and CUL4-associated factor 13	GC		False	False	True	False	True (4)	2
+Q96FC9	DDX11	ATP-dependent DNA helicase DDX11	GC		False	True	False	False	True (1)	2
+Q92841	DDX17	Probable ATP-dependent RNA helicase DDX17	GC	GC	True	False	False	False	True (2)	2
+Q9NVP1	DDX18	ATP-dependent RNA helicase DDX18	GC	GC	True	True	False	True	True (2)	4
+Q9BUQ8	DDX23	Probable ATP-dependent RNA helicase DDX23	GC		False	False	True	False	True (2)	2
+Q9GZR7	DDX24	ATP-dependent RNA helicase DDX24	GC	GC	True	False	False	True	True (2)	3
+Q96GQ7	DDX27	Probable ATP-dependent RNA helicase DDX27	GC	GC	True	False	False	True	True (2)	3
+Q9NUL7	DDX28	Probable ATP-dependent RNA helicase DDX28	GC		False	False	True	False	False	1
+Q9UJV9	DDX41	Probable ATP-dependent RNA helicase DDX41	GC		False	False	False	False	True (2)	1
+Q7L014	DDX46	Probable ATP-dependent RNA helicase DDX46	FC/DFC		False	False	False	False	True (1)	1
+Q8N8A6	DDX51	ATP-dependent RNA helicase DDX51	GC		False	False	False	False	True (2)	1
+Q9Y2R4	DDX52	Probable ATP-dependent RNA helicase DDX52	GC		False	False	True	True	True (2)	3
+Q86TM3	DDX53	Probable ATP-dependent RNA helicase DDX53	GC		False	False	False	False	True (1)	1
+Q8TDD1	DDX54	ATP-dependent RNA helicase DDX54	GC		False	False	False	True	True (2)	2
+Q8NHQ9	DDX55	ATP-dependent RNA helicase DDX55	GC		False	True	False	True	True (1)	3
+Q9NY93	DDX56	Probable ATP-dependent RNA helicase DDX56	GC	GC	True	False	True	True	True (2)	4
+O75398	DEAF1	Deformed epidermal autoregulatory factor 1 homolog	FC/DFC		False	False	True	False	False	1
+Q5TB30	DEPDC1	DEP domain-containing protein 1A	FC/DFC		False	False	True	False	False	1
+O76075	DFFB	DNA fragmentation factor subunit beta	GC		False	False	True	False	False	1
+P52824	DGKQ	Diacylglycerol kinase theta	GC		False	False	True	False	False	1
+O43143	DHX15	ATP-dependent RNA helicase DHX15	FC/DFC	DFC	True	False	False	False	True (2)	2
+Q9H6R0	DHX33	ATP-dependent RNA helicase DHX33	GC		False	True	False	True	True (2)	3
+Q68CQ4	DIEXF (UTP25)	U3 small nucleolar RNA-associated protein 25 homolog	FC/DFC		False	False	False	True	True (1)	2
+Q8NDF8	PAPD5 (TENT4B)	Terminal nucleotidyltransferase 4B	FC/DFC		False	False	False	True	True (1)	2
+Q9UNQ2	DIMT1	Dimethyladenosine transferase	GC	GC	True	False	True	False	True (2)	3
+O60832	DKC1	H/ACA ribonucleoprotein complex subunit DKC1	FC/DFC	DFC	True	False	True	True	True (2)	4
+Q5F1R6	DNAJC21	DnaJ homolog subfamily C member 21	GC		False	False	True	False	True (1)	2
+Q5QJE6	DNTTIP2	Deoxynucleotidyltransferase terminal-interacting protein 2	GC	GC	True	False	True	True	True (1)	4
+Q9UPQ8	DOLK	Dolichol kinase	GC		False	False	True	False	False	1
+Q9H410	DSN1	Kinetochore-associated protein DSN1 homolog	FC/DFC		False	False	True	False	False	1
+O75319	DUSP11	RNA/RNP complex-1-interacting phosphatase	FC/DFC		False	False	False	False	True (2)	1
+Q9H596	DUSP21	Dual specificity protein phosphatase 21	GC		False	False	True	False	False	1
+Q9UBX2	DUX4	Double homeobox protein 4	GC		False	False	True	False	False	1
+A0AVK6	E2F8	Transcription factor E2F8	GC		False	False	True	False	False	1
+Q99848	EBNA1BP2	Probable rRNA-processing protein EBP2	GC	GC	True	True	False	True	True (2)	4
+O60869	EDF1	Endothelial differentiation-related factor 1	GC		False	False	True	False	True (2)	2
+P24534	EEF1B2	Elongation factor 1-beta	FC/DFC		False	False	False	False	True (1)	1
+P29692	EEF1D	Elongation factor 1-delta	FC/DFC		False	False	True	False	True (1)	2
+Q8N140	EID3	EP300-interacting inhibitor of differentiation 3	GC		False	False	True	False	False	1
+P56537	EIF6	Eukaryotic translation initiation factor 6	GC	GC	True	False	False	False	True (2)	2
+Q53HC9	EIPR1	EARP and GARP complex-interacting protein 1	GC		False	False	True	False	False	1
+Q15717	ELAVL1	ELAV-like protein 1	GC		False	False	True	False	True (2)	2
+Q14241	ELOA	Elongin-A	FC/DFC		False	False	False	True	True (2)	2
+Q8IYF1	ELOA2	Elongin-A2	GC		False	False	False	False	True (1)	1
+Q9H2F5	EPC1	Enhancer of polycomb homolog 1	GC		False	False	True	False	False	1
+P50548	ERF	ETS domain-containing transcription factor ERF	GC		False	False	True	False	False	1
+Q9H501	ESF1	ESF1 homolog	GC		False	False	False	True	True (2)	2
+P11474	ESRRA	Steroid hormone receptor ERR1	FC/DFC		False	False	True	False	False	1
+Q01844	EWSR1	RNA-binding protein EWS	GC		False	False	False	False	True (2)	1
+Q01780	EXOSC10	Exosome complex component 10	GC	GC	True	False	True	True	True (2)	4
+Q13868	EXOSC2	Exosome complex component RRP4	GC		False	False	True	False	True (2)	2
+Q9NQT4	EXOSC5	Exosome complex component RRP46	GC		False	True	False	False	True (2)	2
+Q15024	EXOSC7	Exosome complex component RRP42	GC	GC	True	False	False	False	True (2)	2
+Q96B26	EXOSC8	Exosome complex component RRP43	FC/DFC		False	False	True	False	True (2)	2
+Q06265	EXOSC9	Exosome complex component RRP45	GC	GC	True	True	False	True	True (2)	4
+Q9Y5Q0	FADS3	Fatty acid desaturase 3	GC	GC	True	False	False	False	False	1
+Q5BKY9	FAM133B	Protein FAM133B	GC		False	True	False	False	True (1)	2
+Q96PV7	FAM193B	Protein FAM193B	GC		False	True	False	False	False	1
+Q9H8W3	FAM204A	Protein FAM204A	GC		False	False	False	False	True (1)	1
+Q9Y421	FAM32A	Protein FAM32A	GC	GC	True	False	True	True	False	3
+Q9BXW9	FANCD2	Fanconi anemia group D2 protein	GC		False	False	True	False	False	1
+P22087	FBL	rRNA 2'-O-methyltransferase fibrillarin	FC/DFC	DFC	True	False	True	True	True (5)	4
+A6NHQ2	FBLL1	RNA 2'-O-methyltransferase FBLL1	FC/DFC		False	False	True	False	False	1
+Q86XK2	FBXO11	F-box only protein 11	GC		False	False	True	False	False	1
+P39748	FEN1	Flap endonuclease 1	GC		False	False	True	False	True (2)	2
+O75344	FKBP6	Inactive peptidyl-prolyl cis-trans isomerase FKBP6	FC/DFC		False	False	True	False	False	1
+P55317	FOXA1	Hepatocyte nuclear factor 3-alpha	FC/DFC		False	False	True	False	False	1
+Q12951	FOXI1	Forkhead box protein I1	GC		False	False	True	False	False	1
+Q9P0K8	FOXJ2	Forkhead box protein J2	FC/DFC		False	False	True	False	False	1
+Q6ZUU3	FOXL2NB	FOXL2 neighbor protein	GC	GC	True	True	False	False	False	2
+Q9NY12	GAR1	H/ACA ribonucleoprotein complex subunit 1	FC/DFC	DFC	True	False	True	False	True (2)	3
+O43681	GET3	ATPase GET3	GC		False	True	False	False	False	1
+Q53GS7	GLE1	mRNA export factor GLE1	GC		False	False	True	False	False	1
+P10070	GLI2	Transcription activator GLI2	GC		False	False	True	False	False	1
+Q9NVN8	GNL3L	Guanine nucleotide-binding protein-like 3-like protein	GC		False	False	True	True	True (2)	3
+Q5T3I0	GPATCH4	G patch domain-containing protein 4	GC		False	True	False	True	True (1)	3
+Q99527	GPER1	G protein-coupled estrogen receptor 1	GC		False	False	True	False	False	1
+Q9BQ67	GRWD1	Glutamate-rich WD repeat-containing protein 1	GC	GC	True	True	False	False	True (2)	3
+Q9H4Y5	GSTO2	Glutathione S-transferase omega-2	GC		False	False	False	False	True (1)	1
+Q9Y5Q9	GTF3C3	General transcription factor 3C polypeptide 3	FC/DFC		False	False	True	False	False	1
+Q9BZE4	GTPBP4	GTP-binding protein 4	GC	GC	True	True	False	True	True (2)	4
+Q9H116	GZF1	GDNF-inducible zinc finger protein 1	GC		False	False	True	False	True (1)	2
+Q9BSH5	HDHD3	Haloacid dehalogenase-like hydrolase domain-containing protein 3	GC		False	True	False	False	False	1
+Q9H583	HEATR1	HEAT repeat-containing protein 1	FC/DFC		False	True	False	True	True (2)	3
+Q9ULT8	HECTD1	E3 ubiquitin-protein ligase HECTD1	GC		False	True	False	False	False	1
+Q9BW71	HIRIP3	HIRA-interacting protein 3	GC		False	False	True	False	False	1
+Q8NCD3	HJURP	Holliday junction recognition protein	GC		False	False	True	False	False	1
+P26583	HMGB2	High mobility group protein B2	GC		False	False	True	False	True (1)	2
+O15347	HMGB3	High mobility group protein B3	GC		False	False	True	False	True (1)	2
+P05204	HMGN2	Non-histone chromosomal protein HMG-17	GC		False	False	True	False	False	1
+Q8IX15	HOMEZ	Homeobox and leucine zipper protein Homez	GC		False	False	True	False	False	1
+P09067	HOXB5	Homeobox protein Hox-B5	FC/DFC		False	False	True	False	False	1
+P28356	HOXD9	Homeobox protein Hox-D9	GC		False	False	True	False	False	1
+Q16666	IFI16	Gamma-interferon-inducible protein 16	GC		False	False	True	False	True (1)	2
+P80217	IFI35	Interferon-induced 35 kDa protein	GC		False	False	True	False	False	1
+Q12906	ILF3	Interleukin enhancer-binding factor 3	GC		False	False	True	False	True (2)	2
+Q9NV31	IMP3	U3 small nucleolar ribonucleoprotein protein IMP3	GC	GC	True	False	True	True	True (2)	4
+Q96G21	IMP4	U3 small nucleolar ribonucleoprotein protein IMP4	GC		False	True	False	False	True (2)	2
+Q9NTI7	INKA2	PAK4-inhibitor INKA2	GC		False	False	True	False	False	1
+Q9C086	INO80B	INO80 complex subunit B	GC		False	False	True	False	True (1)	2
+Q6PI98	INO80C	INO80 complex subunit C	GC	GC	True	False	True	False	False	2
+Q92551	IP6K1	Inositol hexakisphosphate kinase 1	FC/DFC		False	False	True	False	False	1
+Q9UHH9	IP6K2	Inositol hexakisphosphate kinase 2	FC/DFC		False	False	True	False	False	1
+Q92794	KAT6A	Histone acetyltransferase KAT6A	GC		False	False	True	False	False	1
+O75164	KDM4A	Lysine-specific demethylase 4A	FC/DFC		False	False	True	False	False	1
+Q6ZMT4	KDM7A	Lysine-specific demethylase 7A	GC		False	False	False	False	True (1)	1
+Q86Y91	KIF18B	Kinesin-like protein KIF18B	GC		False	False	True	False	False	1
+B2CW77	KLLN	Killin	GC		False	False	True	False	False	1
+Q4FZB7	KMT5B	Histone-lysine N-methyltransferase KMT5B	FC/DFC		False	False	True	False	False	1
+Q1ED39	KNOP1	Lysine-rich nucleolar protein 1	FC/DFC	DFC	True	True	False	True	True (1)	4
+Q8N9T8	KRI1	Protein KRI1 homolog	GC		False	True	False	True	True (1)	3
+Q4G0J3	LARP7	La-related protein 7	FC/DFC		False	False	False	True	True (1)	2
+Q9Y4W2	LAS1L	Ribosomal biogenesis protein LAS1L	FC/DFC		False	False	False	True	True (1)	2
+O43679	LDB2	LIM domain-binding protein 2	GC		False	False	True	False	False	1
+O95751	LDOC1	Protein LDOC1	GC		False	False	True	False	False	1
+Q8WVC0	LEO1	RNA polymerase-associated protein LEO1	FC/DFC		False	True	False	False	False	1
+Q6ZN17	LIN28B	Protein lin-28 homolog B	GC	GC	True	False	True	False	True (1)	3
+Q9BRT6	LLPH	Protein LLP homolog	GC	GC	True	True	False	True	True (2)	4
+Q07954	LRP1	Prolow-density lipoprotein receptor-related protein 1	GC		False	False	True	False	False	1
+Q9NX58	LYAR	Cell growth-regulating nucleolar protein	FC/DFC	DFC	True	True	False	True	True (2)	4
+A1Z1Q3	MACROD2	ADP-ribose glycohydrolase MACROD2	GC		False	False	True	False	False	1
+Q15013	MAD2L1BP	MAD2L1-binding protein	GC		False	False	True	False	False	1
+Q9UNF1	MAGED2	Melanoma-associated antigen D2	GC		False	True	False	False	False	1
+P20794	MAK	Serine/threonine-protein kinase MAK	GC		False	False	True	False	False	1
+Q9BXY0	MAK16	Protein MAK16 homolog	GC	GC	True	False	True	True	True (1)	4
+Q66K74	MAP1S	Microtubule-associated protein 1S	GC		False	False	True	False	False	1
+Q9NS73	MBIP	MAP3K12-binding inhibitory protein 1	GC		False	False	True	False	False	1
+Q7L590	MCM10	Protein MCM10 homolog	GC		False	False	True	False	False	1
+P33993	MCM7	DNA replication licensing factor MCM7	GC	GC	True	False	False	False	True (2)	2
+Q9NU22	MDN1	Midasin	GC		False	False	True	False	True (2)	2
+Q13503	MED21	Mediator of RNA polymerase II transcription subunit 21	GC		False	False	False	False	True (2)	1
+Q6P2C8	MED27	Mediator of RNA polymerase II transcription subunit 27	GC		False	False	True	False	False	1
+A9UHW6	MIF4GD	MIF4G domain-containing protein	GC		False	False	True	False	False	1
+Q03111	MLLT1	Protein ENL	FC/DFC		False	False	True	False	False	1
+Q70IA6	MOB2	MOB kinase activator 2	GC		False	False	True	False	False	1
+Q99547	MPHOSPH6	M-phase phosphoprotein 6	GC		False	False	True	False	True (2)	2
+Q9UKD2	MRTO4	mRNA turnover protein 4 homolog	GC		False	False	True	False	True (1)	2
+Q9ULD2	MTUS1	Microtubule-associated tumor suppressor 1	GC		False	False	True	False	False	1
+Q96NY9	MUS81	Structure-specific endonuclease subunit MUS81	GC	GC	True	False	True	False	True (1)	3
+Q9BQG0	MYBBP1A	Myb-binding protein 1A	GC	GC	True	False	True	True	True (1)	4
+Q5VVJ2	MYSM1	Deubiquitinase MYSM1	GC		False	False	True	False	False	1
+Q9GZZ1	NAA50	N-alpha-acetyltransferase 50	GC		False	False	True	False	False	1
+Q9UHQ1	NARF	Nuclear prelamin A recognition factor	GC		False	False	True	False	False	1
+Q9H0A0	NAT10	RNA cytidine acetyltransferase	GC		False	True	False	True	True (2)	3
+Q15021	NCAPD2	Condensin complex subunit 1	GC		False	False	True	False	False	1
+Q6NW34	NEPRO (RMP64)	Ribonuclease MRP subunit P64	GC		False	False	True	True	True (1)	3
+O00712	NFIB	Nuclear factor 1 B-type	FC/DFC		False	False	True	False	False	1
+P08651	NFIC	Nuclear factor 1 C-type	FC/DFC		False	False	True	False	False	1
+O00221	NFKBIE	NF-kappa-B inhibitor epsilon	FC/DFC		False	False	True	False	False	1
+Q12986	NFX1	Transcriptional repressor NF-X1	GC		False	False	True	False	False	1
+Q8NEJ9	NGDN	Neuroguidin	GC		False	False	True	False	True (2)	2
+Q9H9Q4	NHEJ1	Non-homologous end-joining factor 1	FC/DFC		False	False	True	False	False	1
+Q9NX24	NHP2	H/ACA ribonucleoprotein complex subunit 2	FC/DFC	DFC	True	False	False	False	True (2)	2
+Q9BYG3	NIFK	MKI67 FHA domain-interacting nucleolar phosphoprotein	GC	GC	True	True	False	True	True (1)	4
+O15226	NKRF	NF-kappa-B-repressing factor	GC	GC	True	False	True	True	True (2)	4
+Q9NVX2	NLE1	Notchless protein homolog 1	GC	GC	True	False	True	False	True (2)	3
+Q96D46	NMD3	60S ribosomal export protein NMD3	GC		False	False	True	False	True (2)	2
+Q9BVI4	NOC4L	Nucleolar complex protein 4 homolog	GC		False	False	True	False	True (2)	2
+Q9BSC4	NOL10	Nucleolar protein 10	GC		False	False	True	True	True (4)	3
+Q9H8H0	NOL11	Nucleolar protein 11	GC		False	False	True	True	True (1)	3
+Q9UGY1	NOL12	Nucleolar protein 12	GC		False	False	False	False	True (2)	1
+Q9H6R4	NOL6	Nucleolar protein 6	GC		False	True	False	True	True (1)	3
+Q9UMY1	NOL7	U3 small nucleolar RNA-associated protein NOL7	GC		False	False	True	False	True (2)	2
+Q76FK4	NOL8	Nucleolar protein 8	GC		False	False	True	True	True (1)	3
+Q5SY16	NOL9	Polynucleotide 5'-hydroxyl-kinase NOL9	GC		False	False	True	True	True (1)	3
+Q14978	NOLC1	Nucleolar and coiled-body phosphoprotein 1	FC/DFC	DFC	True	True	False	True	True (2)	4
+Q5C9Z4	NOM1	Nucleolar MIF4G domain-containing protein 1	GC		False	True	False	True	True (1)	3
+Q9NPE3	NOP10	H/ACA ribonucleoprotein complex subunit 3	FC/DFC	DFC	True	False	False	False	True (2)	2
+P78316	NOP14	Nucleolar protein 14	GC		False	True	False	True	True (1)	3
+Q9Y3C1	NOP16	Nucleolar protein 16	GC		False	True	False	True	True (2)	3
+P46087	NOP2	28S rRNA (cytosine(4447)-C(5))-methyltransferase	GC	GC	True	True	False	True	True (2)	4
+Q9NZM5	NOP53	Ribosome biogenesis protein NOP53	GC		False	False	True	True	True (2)	3
+O00567	NOP56	Nucleolar protein 56	FC/DFC	DFC	True	True	False	True	True (2)	4
+Q9Y2X3	NOP58	Nucleolar protein 58	FC/DFC	DFC	True	True	False	True	True (2)	4
+Q86U38	NOP9	Nucleolar protein 9	GC		False	False	False	False	True (2)	1
+P51513	NOVA1	RNA-binding protein Nova-1	GC		False	False	True	False	False	1
+P06748	NPM1	Nucleophosmin	GC	GC	True	True	False	True	True (5)	4
+Q86SE8	NPM2	Nucleoplasmin-2	GC		False	False	False	False	True (1)	1
+O75607	NPM3	Nucleoplasmin-3	GC		False	False	False	True	True (2)	2
+P22736	NR4A1	Nuclear receptor subfamily 4immunitygroup A member 1	FC/DFC		False	False	True	False	False	1
+O14511	NRG2	Pro-neuregulin-2, membrane-bound isoform	GC		False	False	True	False	False	1
+P48552	NRIP1	Nuclear receptor-interacting protein 1	GC		False	False	True	False	False	1
+O95478	NSA2	Ribosome biogenesis protein NSA2 homolog	GC	GC	True	True	False	False	True (2)	3
+O96028	NSD2	Histone-lysine N-methyltransferase NSD2	GC		False	False	True	False	False	1
+Q96P11	NSUN5	28S rRNA (cytosine-C(5))-methyltransferase	GC		False	True	False	False	True (2)	2
+O60285	NUAK1	NUAK family SNF1-like kinase 1	FC/DFC		False	False	True	False	False	1
+Q9Y5A7	NUB1	NEDD8 ultimate buster 1	GC		False	True	False	False	False	1
+Q9H1E3	NUCKS1	Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1	GC		False	False	True	False	False	1
+Q96DE0	NUDT16	U8 snoRNA-decapping enzyme	GC		False	False	True	False	False	1
+Q9UHK0	NUFIP1	FMR1-interacting protein NUFIP1	GC		False	True	False	False	False	1
+O15381	NVL	Nuclear valosin-containing protein-like	GC		False	True	False	True	True (2)	3
+Q9Y530	OARD1	ADP-ribose glycohydrolase OARD1	GC		False	False	True	False	False	1
+Q9ULD0	OGDHL	2-oxoglutarate dehydrogenase-like, mitochondrial	FC/DFC		False	False	False	False	True (1)	1
+O43929	ORC4	Origin recognition complex subunit 4	GC		False	False	True	False	False	1
+Q9Y5N6	ORC6	Origin recognition complex subunit 6	FC/DFC		False	False	True	False	False	1
+Q9H4L5	OSBPL3	Oxysterol-binding protein-related protein 3	GC		False	False	True	False	False	1
+Q8N7H5	PAF1	RNA polymerase II-associated factor 1 homolog	FC/DFC		False	False	True	False	False	1
+Q9NWT1	PAK1IP1	p21-activated protein kinase-interacting protein 1	GC		False	False	True	False	True (2)	2
+Q9NQU5	PAK6	Serine/threonine-protein kinase PAK 6	FC/DFC		False	False	True	False	False	1
+Q9UGN5	PARP2	Poly [ADP-ribose] polymerase 2	GC		False	False	True	False	False	1
+P55771	PAX9	Paired box protein Pax-9	GC		False	False	True	False	False	1
+Q96FA3	PELI1	E3 ubiquitin-protein ligase pellino homolog 1	GC		False	False	True	False	False	1
+Q9BRX2	PELO	Protein pelota homolog	GC	GC	True	False	False	False	True (2)	2
+Q8IZL8	PELP1	Proline-, glutamic acid- and leucine-rich protein 1	GC		False	True	False	False	True (1)	2
+O00541	PES1	Pescadillo homolog	GC	GC	True	True	False	True	True (2)	4
+O00264	PGRMC1	Membrane-associated progesterone receptor component 1	GC		False	False	False	False	True (1)	1
+Q8IWS0	PHF6	PHD finger protein 6	GC		False	False	True	False	True (2)	2
+P42338	PIK3CB	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform	GC		False	False	True	False	False	1
+P11309	PIM1	Serine/threonine-protein kinase pim-1	GC		False	False	True	False	False	1
+Q9Y237	PIN4	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 4	GC		False	True	False	False	False	1
+Q96BK5	PINX1	PIN2/TERF1-interacting telomerase inhibitor 1	GC		False	False	True	True	True (2)	3
+P78337	PITX1	Pituitary homeobox 1	GC		False	False	True	False	False	1
+O43660	PLRG1	Pleiotropic regulator 1	FC/DFC		False	False	True	False	True (2)	2
+Q96T60	PNKP	Bifunctional polynucleotide phosphatase/kinase	GC		False	False	True	False	True (1)	2
+Q9NRX1	PNO1	RNA-binding protein PNO1	GC		False	False	True	False	True (1)	2
+Q9NRF9	POLE3	DNA polymerase epsilon subunit 3	GC		False	False	False	False	True (1)	1
+O95602	POLR1A	DNA-directed RNA polymerase I subunit RPA1	FC/DFC	FC	True	True	False	False	True (2)	3
+Q9H9Y6	POLR1B	DNA-directed RNA polymerase I subunit RPA2	FC/DFC		False	False	True	False	True (1)	2
+O15160	POLR1C	DNA-directed RNA polymerases I and III subunit RPAC1	FC/DFC	FC	True	False	True	False	True (2)	3
+P0DPB6	POLR1D	DNA-directed RNA polymerases I and III subunit RPAC2	FC/DFC	FC	True	False	False	False	True (1)	2
+Q9GZS1	POLR1E	DNA-directed RNA polymerase I subunit RPA49	FC/DFC	FC	True	False	True	False	True (2)	3
+Q3B726	POLR1F	DNA-directed RNA polymerase I subunit RPA43	FC/DFC	FC	True	True	False	False	True (1)	3
+O15446	POLR1G	DNA-directed RNA polymerase I subunit RPA34	FC/DFC		False	True	False	False	True (2)	2
+Q9P1U0	POLR1H	DNA-directed RNA polymerase I subunit RPA12	FC/DFC	FC	True	False	True	False	True (1)	3
+P61218	POLR2F	DNA-directed RNA polymerases I, II, and III subunit RPABC2	FC/DFC		False	False	True	False	False	1
+P53803	POLR2K	DNA-directed RNA polymerases I, II, and III subunit RPABC4	FC/DFC		False	False	True	False	False	1
+Q99575	POP1	Ribonucleases P/MRP protein subunit POP1	GC	GC	True	False	True	False	True (2)	3
+O95707	POP4	Ribonuclease P protein subunit p29	GC		False	False	True	False	True (2)	2
+Q969H6	POP5	Ribonuclease P/MRP protein subunit POP5	GC		False	False	True	False	False	1
+O75817	POP7	Ribonuclease P protein subunit p20	GC		False	False	True	False	True (2)	2
+Q07869	PPARA	Peroxisome proliferator-activated receptor alpha	FC/DFC		False	False	True	False	False	1
+Q9Y3C6	PPIL1	Peptidyl-prolyl cis-trans isomerase-like 1	GC		False	False	True	False	False	1
+O15297	PPM1D	Protein phosphatase 1D	GC		False	False	True	False	False	1
+P36873	PPP1CC	Serine/threonine-protein phosphatase PP1-gamma catalytic subunit	GC	GC	True	False	False	False	True (2)	2
+Q96QC0	PPP1R10	Serine/threonine-protein phosphatase 1 regulatory subunit 10	GC	GC	True	False	False	False	False	1
+O75626	PRDM1	PR domain zinc finger protein 1	GC		False	False	True	False	False	1
+Q9NQX1	PRDM5	PR domain zinc finger protein 5	GC		False	False	True	False	False	1
+Q96LA8	PRMT6	Protein arginine N-methyltransferase 6	GC		False	False	True	False	True (1)	2
+Q9NVM4	PRMT7	Protein arginine N-methyltransferase 7	FC/DFC		False	False	False	False	True (1)	1
+Q8WXF1	PSPC1	Paraspeckle component 1	FC/DFC		False	True	False	False	True (1)	2
+P29350	PTPN6	Tyrosine-protein phosphatase non-receptor type 6	GC		False	False	True	False	False	1
+Q15397	PUM3	Pumilio homolog 3	GC		False	False	True	True	True (2)	3
+Q15269	PWP2	Periodic tryptophan protein 2 homolog	GC	GC	True	False	True	True	True (2)	4
+Q9ULZ3	PYCARD	Apoptosis-associated speck-like protein containing a CARD	GC		False	False	True	False	False	1
+Q56P42	PYDC2	Pyrin domain-containing protein 2	GC		False	False	True	False	False	1
+Q9BRP8	PYM1	Partner of Y14 and mago	GC		False	False	True	False	True (1)	2
+P63000	RAC1	Ras-related C3 botulinum toxin substrate 1	GC		False	False	True	False	False	1
+Q06609	RAD51	DNA repair protein RAD51 homolog 1	GC		False	False	True	False	False	1
+P78406	RAE1	mRNA export factor RAE1	FC/DFC		False	False	True	False	True (2)	2
+P10276	RARA	Retinoic acid receptor alpha	GC		False	False	True	False	False	1
+Q15291	RBBP5	Retinoblastoma-binding protein 5	GC		False	False	True	False	False	1
+Q8N0T1	RBIS	Ribosomal biogenesis factor	GC		False	True	False	False	True (2)	2
+Q96PK6	RBM14	RNA-binding protein 14	GC	GC	True	False	False	False	True (1)	2
+Q9Y4C8	RBM19	Probable RNA-binding protein 19	GC		False	False	True	True	True (2)	3
+Q9NW13	RBM28	RNA-binding protein 28	GC		False	True	False	True	True (2)	3
+P42696	RBM34	RNA-binding protein 34	GC		False	False	True	True	True (2)	3
+Q9BWF3	RBM4	RNA-binding protein 4	GC	GC	True	False	False	False	True (2)	2
+Q9Y388	RBMX2	RNA-binding motif protein, X-linked 2	GC		False	False	True	True	False	2
+Q8NG50	RDM1	RAD52 motif-containing protein 1	GC		False	False	True	False	True (1)	2
+Q9UBZ9	REV1	Translesion synthesis protein REV1	GC		False	False	True	False	False	1
+Q9GZR2	REXO4	RNA exonuclease 4	GC		False	False	True	True	True (1)	3
+Q9H4X1	RGCC	Regulator of cell cycle RGCC	GC		False	False	True	False	False	1
+O14924	RGS12	Regulator of G protein signaling 12	GC		False	False	True	False	False	1
+Q8NE09	RGS22	Regulator of G protein signaling 22	FC/DFC		False	False	True	False	False	1
+Q9H6W3	RIOX1	Ribosomal oxygenase 1	GC	GC	True	False	True	False	True (2)	3
+Q8IUF8	RIOX2	Ribosomal oxygenase 2	GC		False	False	True	False	True (1)	2
+O43148	RNMT	mRNA cap guanine-N(7) methyltransferase	FC/DFC		False	False	True	False	False	1
+P35398	RORA	Nuclear receptor ROR-alpha	GC		False	False	True	False	False	1
+Q8IXW5	RPAP2	Putative RNA polymerase II subunit B1 CTD phosphatase RPAP2	GC		False	False	True	False	False	1
+Q9H9Y2	RPF1	Ribosome production factor 1	GC		False	False	True	False	True (1)	2
+Q8N5L8	RPP25L	Ribonuclease P protein subunit p25-like protein	GC		False	False	False	False	True (1)	1
+P78346	RPP30	Ribonuclease P protein subunit p30	GC		False	False	False	False	True (2)	1
+P78345	RPP38	Ribonuclease P protein subunit p38	GC		False	False	True	True	True (1)	3
+Q86WX3	RPS19BP1	Active regulator of SIRT1	GC		False	False	True	False	True (2)	2
+P51812	RPS6KA3	Ribosomal protein S6 kinase alpha-3	GC		False	False	True	False	False	1
+P56182	RRP1	Ribosomal RNA processing protein 1 homolog A	GC	GC	True	True	False	False	True (2)	3
+Q5JTH9	RRP12	RRP12-like protein	GC		False	True	False	True	True (1)	3
+Q14684	RRP1B	Ribosomal RNA processing protein 1 homolog B	GC	GC	True	True	False	True	True (2)	4
+Q96EU6	RRP36	Ribosomal RNA processing protein 36 homolog	GC		False	True	False	True	True (1)	3
+Q9Y3A4	RRP7A	Ribosomal RNA-processing protein 7 homolog A	GC		False	False	True	True	True (1)	3
+O43159	RRP8	Ribosomal RNA-processing protein 8	GC		False	False	True	True	True (2)	3
+O43818	RRP9	U3 small nucleolar RNA-interacting protein 2	FC/DFC	DFC	True	False	False	False	True (2)	2
+Q15050	RRS1	Ribosome biogenesis regulatory protein homolog	GC		False	False	True	True	True (2)	3
+O76021	RSL1D1	Ribosomal L1 domain-containing protein 1	GC	GC	True	False	True	True	True (1)	4
+Q9BY42	RTF2	Replication termination factor 2	GC		False	False	True	False	True (2)	2
+P28702	RXRB	Retinoic acid receptor RXR-beta	GC		False	False	True	False	False	1
+Q9HAJ7	SAP30L	Histone deacetylase complex subunit SAP30L	FC/DFC		False	False	True	False	True (1)	2
+Q86UD0	SAPCD2	Suppressor APC domain-containing protein 2	GC		False	False	True	False	False	1
+Q99590	SCAF11	Protein SCAF11	GC		False	False	True	False	False	1
+Q9NVU7	SDAD1	Protein SDA1 homolog	GC		False	False	True	True	True (2)	3
+Q13228	SELENBP1	Methanethiol oxidase	GC	GC	True	False	True	False	False	2
+Q9H4L4	SENP3	Sentrin-specific protease 3	GC	GC	True	False	True	True	True (2)	4
+P84101	SERF2	Small EDRK-rich factor 2	GC		False	False	False	False	True (1)	1
+Q9Y6P5	SESN1	Sestrin-1	FC/DFC		False	False	True	False	False	1
+Q01105	SET	Protein SET	FC/DFC		False	False	False	True	True (1)	2
+Q53H47	SETMAR	Histone-lysine N-methyltransferase SETMAR	GC		False	False	True	False	False	1
+Q96ES7	SGF29	SAGA-associated factor 29	GC		False	False	True	False	False	1
+Q96EB6	SIRT1	NAD-dependent protein deacetylase sirtuin-1	FC/DFC		False	False	False	True	False	1
+Q8IXJ6	SIRT2	NAD-dependent protein deacetylase sirtuin-2	GC		False	False	True	False	False	1
+Q15475	SIX1	Homeobox protein SIX1	GC		False	False	True	False	False	1
+Q13309	SKP2	S-phase kinase-associated protein 2	GC		False	False	True	False	False	1
+Q14493	SLBP	Histone RNA hairpin-binding protein	GC		False	False	True	False	False	1
+Q9NSI2	SLX9	Ribosome biogenesis protein SLX9 homolog	GC		False	False	True	False	True (2)	2
+Q15796	SMAD2	SMAD family member 2	GC		False	False	True	False	False	1
+O15105	SMAD7	SMAD family member 7	FC/DFC		False	False	True	False	False	1
+O60264	SMARCA5	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5	FC/DFC		False	False	True	False	True (2)	2
+Q12824	SMARCB1	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1	FC/DFC		False	False	True	False	False	1
+O95347	SMC2	Structural maintenance of chromosomes protein 2	GC		False	False	True	False	True (2)	2
+Q86US8	SMG6	Telomerase-binding protein EST1A	GC		False	False	True	False	False	1
+Q92540	SMG7	Nonsense-mediated mRNA decay factor SMG7	GC		False	False	True	False	True (1)	2
+Q53HV7	SMUG1	Single-strand selective monofunctional uracil DNA glycosylase	FC/DFC		False	False	True	False	False	1
+Q16533	SNAPC1	snRNA-activating protein complex subunit 1	GC		False	True	False	False	True (1)	2
+Q92966	SNAPC3	snRNA-activating protein complex subunit 3	GC		False	False	False	False	True (1)	1
+Q16560	SNRNP35	U11/U12 small nuclear ribonucleoprotein 35 kDa protein	GC		False	False	True	False	False	1
+P55769	SNU13	NHP2-like protein 1	FC/DFC	DFC	True	False	False	False	True (2)	2
+Q9NUQ6	SPATS2L	SPATS2-like protein	GC		False	True	False	False	True (1)	2
+Q8NBT2	SPC24	Kinetochore protein Spc24	GC		False	False	True	False	False	1
+Q96JI7	SPG11	Spatacsin	GC		False	False	True	False	False	1
+Q68D10	SPTY2D1	Protein SPT2 homolog	GC		False	True	False	True	True (1)	3
+P37108	SRP14	Signal recognition particle 14 kDa protein	GC	GC	True	False	False	False	True (2)	2
+P78362	SRPK2	SRSF protein kinase 2	GC		False	False	True	False	False	1
+Q05519	SRSF11	Serine/arginine-rich splicing factor 11	GC	GC	True	False	False	False	False	1
+Q13243	SRSF5	Serine/arginine-rich splicing factor 5	GC		False	False	False	False	True (2)	1
+P05455	SSB	Lupus La protein	GC	GC	True	False	False	False	True (2)	2
+Q08945	SSRP1	FACT complex subunit SSRP1	GC		False	False	True	False	True (2)	2
+Q9UJ98	STAG3	Cohesin subunit SA-3	GC		False	False	True	False	True (1)	2
+Q9Y6E0	STK24	Serine/threonine-protein kinase 24	GC		False	False	True	False	False	1
+Q6ZVD7	STOX1	Storkhead-box protein 1	FC/DFC		False	False	True	False	False	1
+P53999	SUB1	Activated RNA polymerase II transcriptional coactivator p15	GC	GC	True	False	True	True	True (2)	4
+P63165	SUMO1	Small ubiquitin-related modifier 1	GC	GC	True	False	True	False	True (1)	3
+P55854	SUMO3	Small ubiquitin-related modifier 3	GC	GC	True	False	False	False	False	1
+Q9Y5B9	SUPT16H	FACT complex subunit SPT16	FC/DFC		False	False	False	False	True (2)	1
+O75683	SURF6	Surfeit locus protein 6	GC	GC	True	True	False	True	True (2)	4
+Q15543	TAF13	Transcription initiation factor TFIID subunit 13	GC		False	True	False	False	False	1
+Q53T94	TAF1B	TATA box-binding protein-associated factor RNA polymerase I subunit B	GC		False	False	True	False	False	1
+Q15572	TAF1C	TATA box-binding protein-associated factor RNA polymerase I subunit C	FC/DFC	FC	True	False	True	False	False	2
+Q92750	TAF4B	Transcription initiation factor TFIID subunit 4B	FC/DFC		False	False	True	False	False	1
+Q92844	TANK	TRAF family member-associated NF-kappa-B activator	GC		False	False	True	False	False	1
+Q9UL54	TAOK2	Serine/threonine-protein kinase TAO2	GC		False	False	True	False	False	1
+O14907	TAX1BP3	Tax1-binding protein 3	FC/DFC		False	False	True	False	False	1
+Q86TI0	TBC1D1	TBC1 domain family member 1	GC		False	False	True	False	False	1
+Q12788	TBL3	Transducin beta-like protein 3	GC	GC	True	True	False	True	True (1)	4
+P23193	TCEA1	Transcription elongation factor A protein 1	GC		False	False	False	False	True (2)	1
+Q13428	TCOF1	Treacle protein	FC/DFC	FC	True	True	False	True	True (4)	4
+Q9BV44	THUMPD3	tRNA (guanine(6)-N(2))-methyltransferase THUMP3	GC		False	True	False	False	False	1
+Q9P016	THYN1	Thymocyte nuclear protein 1	GC	GC	True	False	True	False	True (1)	3
+Q8IVF5	TIAM2	Rho guanine nucleotide exchange factor TIAM2	FC/DFC		False	False	True	False	False	1
+Q86UE8	TLK2	Serine/threonine-protein kinase tousled-like 2	GC		False	False	True	False	False	1
+Q96EY4	TMA16	Translation machinery-associated protein 16	GC		False	True	False	False	True (2)	2
+Q9Y2S6	TMA7	Translation machinery-associated protein 7	GC	GC	True	False	False	False	True (2)	2
+Q9H3N1	TMX1	Thioredoxin-related transmembrane protein 1	GC		False	False	True	False	False	1
+Q92973	TNPO1	Transportin-1	GC		False	False	True	False	False	1
+P11387	TOP1	DNA topoisomerase 1	FC/DFC	FC	True	False	True	False	True (2)	3
+P11388	TOP2A	DNA topoisomerase 2-alpha	GC		False	False	True	False	True (2)	2
+Q02880	TOP2B	DNA topoisomerase 2-beta	GC	GC	True	False	False	True	True (2)	3
+Q68CL5	TPGS2	Tubulin polyglutamylase complex subunit 2	GC	GC	True	False	False	False	False	1
+Q13595	TRA2A	Transformer-2 protein homolog alpha	GC		False	False	True	False	False	1
+Q9BUZ4	TRAF4	TNF receptor-associated factor 4	FC/DFC		False	False	True	False	False	1
+Q8WV44	TRIM41	E3 ubiquitin-protein ligase TRIM41	FC/DFC		False	False	True	False	True (1)	2
+Q8TBZ6	TRMT10A	tRNA methyltransferase 10 homolog A	GC		False	False	True	False	True (1)	2
+Q7Z2T5	TRMT1L	tRNA (guanine(27)-N(2))-dimethyltransferase	GC		False	False	False	True	True (1)	2
+Q9H0U9	TSPYL1	Testis-specific Y-encoded-like protein 1	GC		False	False	True	False	True (2)	2
+Q2NL82	TSR1	Pre-rRNA-processing protein TSR1 homolog	FC/DFC		False	False	False	True	True (1)	2
+Q15361	TTF1	Transcription termination factor 1	FC/DFC		False	False	True	False	False	1
+O75386	TULP3	Tubby-related protein 3	GC		False	False	True	False	False	1
+Q8WVJ9	TWIST2	Twist-related protein 2	GC		False	False	True	False	False	1
+P42681	TXK	Tyrosine-protein kinase TXK	GC		False	False	True	False	False	1
+P63279	UBE2I	SUMO-conjugating enzyme UBC9	GC		False	False	True	False	True (1)	2
+P61081	UBE2M	NEDD8-conjugating enzyme Ubc12	GC		False	True	False	False	False	1
+P17480	UBTF	Nucleolar transcription factor 1	FC/DFC	FC	True	True	False	True	True (2)	4
+Q5T124	UBXN11	UBX domain-containing protein 11	GC	GC	True	False	False	False	False	1
+Q9Y5K5	UCHL5	Ubiquitin carboxyl-terminal hydrolase isozyme L5	GC		False	False	True	False	False	1
+Q9BZI7	UPF3B	Regulator of nonsense transcripts 3B	GC		False	False	True	False	True (2)	2
+Q9H0E7	USP44	Ubiquitin carboxyl-terminal hydrolase 44	FC/DFC		False	False	True	False	False	1
+P62068	USP46	Ubiquitin carboxyl-terminal hydrolase 46	GC	GC	True	False	False	False	False	1
+Q9Y3A2	UTP11	Probable U3 small nucleolar RNA-associated protein 11	GC		False	False	True	False	True (2)	2
+Q9BVJ6	UTP14A	U3 small nucleolar RNA-associated protein 14 homolog A	GC		False	False	True	True	True (1)	3
+Q8TED0	UTP15	U3 small nucleolar RNA-associated protein 15 homolog	GC		False	False	True	False	True (1)	2
+O75691	UTP20	Small subunit processome component 20 homolog	GC		False	False	True	True	True (1)	3
+Q9BRU9	UTP23	rRNA-processing protein UTP23 homolog	GC		False	False	False	False	True (2)	1
+Q9NQZ2	UTP3	Something about silencing protein 10	GC		False	False	True	True	True (2)	3
+Q969X6	UTP4	U3 small nucleolar RNA-associated protein 4 homolog	GC	GC	True	False	True	False	True (2)	3
+Q9NYH9	UTP6	U3 small nucleolar RNA-associated protein 6 homolog	GC	GC	True	True	False	False	True (2)	3
+Q9GZL7	WDR12	Ribosome biogenesis protein WDR12	GC		False	False	False	False	True (2)	1
+Q9UNX4	WDR3	WD repeat-containing protein 3	GC		False	True	False	True	True (2)	3
+Q9C0J8	WDR33	pre-mRNA 3' end processing protein WDR33	FC/DFC		False	True	False	False	False	1
+Q8NI36	WDR36	WD repeat-containing protein 36	GC		False	False	True	True	True (2)	3
+Q15061	WDR43	WD repeat-containing protein 43	FC/DFC		False	False	False	True	True (2)	2
+Q9Y484	WDR45	WD repeat domain phosphoinositide-interacting protein 4	GC	GC	True	False	False	False	False	1
+O15213	WDR46	WD repeat-containing protein 46	GC		False	False	True	False	True (2)	2
+Q9H6Y2	WDR55	WD repeat-containing protein 55	GC		False	True	False	False	True (1)	2
+Q6RFH5	WDR74	WD repeat-containing protein 74	GC		False	False	True	False	True (1)	2
+P30291	WEE1	Wee1-like protein kinase	GC		False	False	True	False	False	1
+P98170	XIAP	E3 ubiquitin-protein ligase XIAP	GC		False	False	True	False	False	1
+Q6ZNB5	XNDC1N	Protein XNDC1N	GC		False	True	False	False	False	1
+O14980	XPO1	Exportin-1	GC	GC	True	False	False	False	True (2)	2
+Q96QU8	XPO6	Exportin-6	GC		False	False	True	False	False	1
+P12956	XRCC6	DNA repair protein Ku70	GC	GC	True	False	False	False	True (2)	2
+Q9H0D6	XRN2	5'-3' exoribonuclease 2	GC		False	True	False	False	True (2)	2
+P46937	YAP1	Transcriptional coactivator YAP1	GC		False	False	True	False	False	1
+P25490	YY1	Transcriptional repressor protein YY1	FC/DFC		False	False	True	False	True (1)	2
+Q9H869	YY1AP1	YY1-associated protein 1	FC/DFC		False	False	False	False	True (1)	1
+O43829	ZBTB14	Zinc finger and BTB domain-containing protein 14	GC		False	False	True	False	False	1
+Q8N3Z6	ZCCHC7	Zinc finger CCHC domain-containing protein 7	GC		False	True	False	False	True (1)	2
+Q8N567	ZCCHC9	Zinc finger CCHC domain-containing protein 9	GC		False	False	True	False	True (1)	2
+P37275	ZEB1	Zinc finger E-box-binding homeobox 1	GC		False	False	True	False	False	1
+O60315	ZEB2	Zinc finger E-box-binding homeobox 2	GC		False	False	True	False	False	1
+Q8N8Y5	ZFP41	Zinc finger protein 41 homolog	GC	GC	True	False	False	False	False	1
+Q96JP5	ZFP91	E3 ubiquitin-protein ligase ZFP91	GC		False	True	False	False	False	1
+Q9H898	ZMAT4	Zinc finger matrin-type protein 4	GC		False	False	False	False	True (1)	1
+Q9ULU4	ZMYND8	MYND-type zinc finger-containing chromatin reader ZMYND8	GC		False	False	True	False	False	1
+Q9H2Y7	ZNF106	Zinc finger protein 106	GC		False	False	False	False	True (1)	1
+Q9UJU3	ZNF112	Zinc finger protein 112	FC/DFC		False	False	True	False	False	1
+P52737	ZNF136	Zinc finger protein 136	GC	GC	True	False	False	False	False	1
+Q15072	ZNF146	Zinc finger protein OZF	GC		False	False	True	False	False	1
+P17020	ZNF16	Zinc finger protein 16	GC		False	False	True	False	False	1
+Q15697	ZNF174	Zinc finger protein 174	FC/DFC		False	False	True	False	False	1
+Q9Y473	ZNF175	Zinc finger protein 175	GC		False	False	True	False	False	1
+Q9Y3S2	ZNF330	Zinc finger protein 330	GC		False	False	True	False	True (1)	2
+O60765	ZNF354A	Zinc finger protein 354A	GC		False	False	True	False	False	1
+Q569K4	ZNF385B	Zinc finger protein 385B	FC/DFC		False	False	True	False	False	1
+Q8N0Y2	ZNF444	Zinc finger protein 444	GC		False	True	False	False	False	1
+Q86TJ5	ZNF554	Zinc finger protein 554	GC		False	True	False	False	False	1
+Q7Z3V5	ZNF571	Zinc finger protein 571	GC	GC	True	False	False	False	False	1
+Q9BSK1	ZNF577	Zinc finger protein 577	GC		False	False	True	False	False	1
+O00488	ZNF593	Zinc finger protein 593	GC		False	True	False	False	False	1
+Q96LX8	ZNF597	Zinc finger protein 597	GC	GC	True	False	False	False	False	1
+Q969S3	ZNF622	Cytoplasmic 60S subunit biogenesis factor ZNF622	GC		False	False	True	False	True (2)	2
+Q96N77	ZNF641	Zinc finger protein 641	GC		False	False	True	False	False	1
+Q96K58	ZNF668	Zinc finger protein 668	GC	GC	True	False	False	False	False	1
+Q9BU19	ZNF692	Zinc finger protein 692	GC		False	True	False	False	True (1)	2
+Q9NQZ8	ZNF71	Endothelial zinc finger protein induced by tumor necrosis factor alpha	GC	GC	True	False	False	False	False	1
+Q15935	ZNF77	Zinc finger protein 77	GC	GC	True	False	False	False	False	1
+Q7L3S4	ZNF771	Zinc finger protein 771	GC	GC	True	True	False	False	False	2
+Q16670	ZSCAN26	Zinc finger and SCAN domain-containing protein 26	GC		False	False	True	False	False	1
+Q2QGD7	ZXDC	Zinc finger protein ZXDC	GC	GC	True	False	False	False	False	1
